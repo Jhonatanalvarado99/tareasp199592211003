@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1678427296 source:c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\primer parcial\proyecto_primer_parcial\nueva carpeta\src\prototipos.cpp
+	"prototipos.h"
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+
+1678427322 c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\primer parcial\proyecto_primer_parcial\nueva carpeta\include\prototipos.h
+
+1678427202 source:c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\primer parcial\proyecto_primer_parcial\nueva carpeta\main.cpp
+	<iostream>
+	"prototipos.h"
+
