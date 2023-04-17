@@ -6,9 +6,7 @@
 
 using namespace std;
 
-class Menus
-{
-    public:
+    void menuPrincipal();
     void menuSistemaNomina();
     void menuDepartamentos();
     void menuDatos ();
@@ -24,10 +22,5 @@ class Menus
     void datosUsuario();
     void datosSalario();
     void datosDescuentos();
-
-    protected:
-
-    private:
-};
 
 #endif // MENUS_H
