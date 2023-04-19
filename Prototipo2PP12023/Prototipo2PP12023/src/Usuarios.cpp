@@ -3,6 +3,7 @@
 #include <cstdlib>
 #include <conio.h>
 #include <string>
+#include <string>
 
 #define USER "admin"
 #define PASS "123456"
