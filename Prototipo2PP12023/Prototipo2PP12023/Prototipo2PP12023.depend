@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1681921163 source:c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipo2pp12023\prototipo2pp12023\main.cpp
+	<iostream>
+	"MenuGeneral.h"
+	"Usuarios.h"
+
+1681920444 c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipo2pp12023\prototipo2pp12023\include\menugeneral.h
+
+1681919358 source:c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipo2pp12023\prototipo2pp12023\src\crud_catalogox.cpp
+	"CRUD_CatalogoX.h"
+
+1681919358 c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipo2pp12023\prototipo2pp12023\include\crud_catalogox.h
+
+1681920596 source:c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipo2pp12023\prototipo2pp12023\src\menugeneral.cpp
+	"MenuGeneral.h"
+	<iostream>
+	<conio.h>
+
+1681921163 c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipo2pp12023\prototipo2pp12023\include\usuarios.h
+
+1681921174 source:c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipo2pp12023\prototipo2pp12023\src\usuarios.cpp
+	"Usuarios.h"
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<string>
+
