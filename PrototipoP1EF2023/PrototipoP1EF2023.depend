@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1686151977 source:c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipo2pp12023\prototipop1ef2023\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"UsuariosPlanilla.h"
+
+1686152659 c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipo2pp12023\prototipop1ef2023\include\usuariosplanilla.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
+1686151798 source:c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipo2pp12023\prototipop1ef2023\src\usuariosplanilla.cpp
+	"UsuariosPlanilla.h"
+
+1686152502 source:c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipo2pp12023\prototipop1ef2023\src\menus.cpp
+	"Menus.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1686152441 c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipo2pp12023\prototipop1ef2023\include\menus.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686151977 source:c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipop1ef2023\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"UsuariosPlanilla.h"
+
+1686152659 c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipop1ef2023\include\usuariosplanilla.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
+1686152441 c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipop1ef2023\include\menus.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1686152502 source:c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipop1ef2023\src\menus.cpp
+	"Menus.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1686152634 source:c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipop1ef2023\src\usuariosplanilla.cpp
+	"UsuariosPlanilla.h"
+

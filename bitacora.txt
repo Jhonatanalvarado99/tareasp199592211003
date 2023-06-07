@@ -1,0 +1,102 @@
+commit a6c7709358074003a069058e418a2bb9f55ae900
+Merge: b499b73 e913c66
+Author: Jhony Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Wed Apr 19 11:46:53 2023 -0600
+
+    Merge branch 'main' of https://github.com/Jhonatanalvarado99/tareasp199592211003
+
+commit b499b7332a470ff53fd2b7583eb6253f16513dcb
+Author: Jhony Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Wed Apr 19 11:46:03 2023 -0600
+
+    Creado el menu de catalogos con su funcion
+
+commit e913c661ad9c6a6d7117de9c0e34317e949096d1
+Author: Jhonatan Alvarado <123187692+Jhonatanalvarado99@users.noreply.github.com>
+Date:   Wed Apr 19 10:27:01 2023 -0600
+
+    Delete Nomina_G2 directory
+
+commit f773caef8372ac2bef5f12e3ef7cdf629483f52e
+Author: Jhony Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Wed Apr 19 10:25:09 2023 -0600
+
+    Se realiza el Login en el programa
+
+commit b8d2188a53fdd9ee18ec1da3c4930cdc4cc68c24
+Author: Jhony Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Sun Apr 16 19:13:58 2023 -0600
+
+    actualizado
+
+commit 695fdd7d9ba414638148c98fe2d9528e01f8eac4
+Author: Jhony Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Sun Apr 16 16:32:11 2023 -0600
+
+    actualizado
+
+commit 7c0f363c3bbeb2d8bd09d0c7fcc0afa0744fe350
+Author: Jhony Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Sun Apr 16 15:42:42 2023 -0600
+
+    actualizado
+
+commit e123c89c3bfc949de7629159fc7ea1d69dedc4b4
+Author: Jhony Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Fri Mar 10 00:04:59 2023 -0600
+
+    Tarea de encabezados
+
+commit 215cbe56529b723ea5cbc331fe61efc72a7766d9
+Author: Jhony Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Thu Mar 9 23:59:32 2023 -0600
+
+    Tarea de encabezados
+
+commit ff65aa7c294bec661160a27904ed1d83d0dd7994
+Author: Jhony Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Wed Mar 1 11:09:40 2023 -0600
+
+    primer parcial
+
+commit 31fbf5be8cb0997cbbd83cc89fb5105ade243462
+Author: Jhony Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Wed Mar 1 09:48:59 2023 -0600
+
+    Ejemplo de encapsulamiento
+
+commit 24cc7d13f264d0adb98fd2672dbbc3795385e8f3
+Author: Jhony Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Wed Feb 8 10:18:05 2023 -0600
+
+    Laboratorio uno
+
+commit ac0f72dd7c628f91a15b963f1198ee8a3ba45e32
+Author: Jhony Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Wed Feb 8 07:00:02 2023 -0600
+
+    Ejercicios del libro
+
+commit fe9b3093ae0e4589927d5d2e163c444739c6918e
+Author: Jhony Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Sat Feb 4 23:43:04 2023 -0600
+
+    se agrego nuevo programa
+
+commit b0186df8c9dbfc926c16bcabf7e7a9e9970a3ea8
+Author: Jhony Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Wed Jan 25 09:49:28 2023 -0600
+
+    Agregando progama Hola Mundo
+
+commit 8aaac7d7dc519b23d6602105a2df146471787e45
+Author: Jhony Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Wed Jan 25 09:38:11 2023 -0600
+
+    se realizo cambio de archivo
+
+commit e996770f3d7c471c09752228aa3d71701e808f81
+Author: Jhonatanalvarado99 <123187692+Jhonatanalvarado99@users.noreply.github.com>
+Date:   Wed Jan 25 09:08:48 2023 -0600
+
+    Initial commit
