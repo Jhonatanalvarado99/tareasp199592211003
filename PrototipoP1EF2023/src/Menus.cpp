@@ -1,4 +1,5 @@
 #include "Menus.h"
+#include "Recetas.h"
 #include<iostream>
 #include<fstream>
 #include<stdlib.h>
@@ -8,10 +9,11 @@
 #include <ctime>
 
 //UsuarioPlanilla traerMenu;
-//EmpleadosPlanilla enviarMenuE;
-//Puestos enviarMenuP;
+EmpleadosPlanilla enviarMenuE;
+//Menus Recetas;
+Puestos enviarMenuP;
 //Departamento enviarMenuD;
-//Bitacora imprimirBitacora;
+Bitacora imprimirBitacora;
 
 string Menus::menuInicial(string nombreUsuario)
 {
@@ -22,6 +24,8 @@ string Menus::menuInicial(string nombreUsuario)
     do
     {
     system("cls");
+    cout << "\t\t\t Jhonatan Armando Alvarado Castro" << endl;
+    cout << "\t\t\t 9959-22-11003" << endl;
 	cout << "\t\t\t-------------------------------------------------\n";
     cout << "\t\t\t|                  !Hola " << userName << "!                  |" <<endl;
     cout << "\t\t\t-------------------------------------------------\n";
@@ -44,13 +48,13 @@ string Menus::menuInicial(string nombreUsuario)
     {
     case 1:{
        system("cls");
-      // menuCatalogos(userName);
+       menuCatalogos(userName);
         break;
     }
 
     case 2:{
         system("cls");
-        //menuProcesos(userName);
+        menuProcesos(userName);
     break;
     }
     case 3:{
@@ -67,4 +71,110 @@ string Menus::menuInicial(string nombreUsuario)
 
     }
     }while(optEscoger!=4);
+}
+
+string Menus::menuCatalogos(string nombreUsuario)
+{
+    string userName = nombreUsuario;
+    system("cls");
+    int optEscoger;
+    bool repetir = true;
+    do
+    {
+            system("cls");
+	cout << "\t\t\t-------------------------------------------------\n";
+    cout << "\t\t\t|                  !Hola " << userName << "!                  |" <<endl;
+    cout << "\t\t\t-------------------------------------------------\n";
+    cout << "\n\t\t\t-----------------------------------\n";
+    cout << "\t\t\t| Bienvenido al Menu de Catalogos |";
+    cout << "\n\t\t\t---------------------------------"<<endl;
+
+    cout << "\n\t\t\t1. Clientes/Pacientes"<<endl;
+    cout << "\t\t\t2. Laboratorios"<<endl;
+    cout << "\t\t\t3. Regresar" << endl;
+    cout << "\n\n\t\t\t---------------------------------------";
+    cout << "\n\t\t\t| Opciones a escoger: [1] - [2] - [3] ";
+    cout << "\n\t\t\t---------------------------------------";
+
+    cout << "\n\n\t\t\tIngrese la opcion que desea escoger: ";
+    cin >> optEscoger;
+
+    switch(optEscoger)
+    {
+    case 1:{
+   enviarMenuE.menuEmpleadosPlanilla(userName);
+       system("cls");
+
+                break;
+    }
+
+    case 2:{
+        system("cls");
+        enviarMenuP.menuPuestos(userName);
+    break;
+    }
+
+    case 3:
+        system("cls");
+       menuInicial(userName);
+        break;
+    default:
+        cout << "Opcion invalida... Intente otra vez...";
+
+    }
+    }while(optEscoger!=3);
+}
+
+
+string Menus::menuProcesos(string nombreUsuario)
+{
+    string userName = nombreUsuario;
+    system("cls");
+    int optEscoger;
+  bool repetir = true;
+    do
+    {
+    cout << "\t\t\t-------------------------------------------------\n";
+    cout << "\t\t\t|                  !Hola " << userName << "!                  |" <<endl;
+    cout << "\t\t\t-------------------------------------------------\n";
+    cout << "\n\t\t\t-----------------------------------\n";
+    cout << "\t\t\t| Bienvenido al Menu de Procesos |";
+    cout << "\n\t\t\t---------------------------------"<<endl;
+    cout << "\t\t\t1. Recetas Medicas"<<endl;
+    cout << "\t\t\t2. Bitacora"<<endl;
+    cout << "\t\t\t3. Regresar al menu anterior" << endl;
+    cout << "\n\n\t\t\t---------------------------------------";
+    cout << "\n\t\t\t| Opciones a escoger: [1] - [2] ";
+    cout << "\n\t\t\t---------------------------------------";
+
+    cout << "\n\n\t\t\tIngrese la opcion que desea escoger: ";
+    cin >> optEscoger;
+
+    switch(optEscoger)
+    {
+
+    case 1:{
+       system("cls");
+      // Recetas Menus;
+//       Menu.insertarRecetas();
+       system("pause");
+                break;
+    }
+    case 2:{
+       system("cls");
+       imprimirBitacora.imprimirDatosBitacora();
+    break;
+    }
+
+    case 3:{
+        system("cls");
+        menuInicial(userName);
+        system("pause");
+        break;
+    }
+    default:
+        cout << "Opcion invalida... Intente otra vez...";
+
+    }
+    }while(repetir);
 }

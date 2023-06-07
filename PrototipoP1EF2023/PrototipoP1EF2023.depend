@@ -58,16 +58,21 @@
 	<iomanip>
 	"Menus.h"
 
-1686152441 c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipop1ef2023\include\menus.h
+1686161362 c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipop1ef2023\include\menus.h
 	<iostream>
 	<fstream>
 	<stdlib.h>
 	<cstdlib>
 	<conio.h>
 	<iomanip>
+	"EmpleadosPlanilla.h"
+	"Recetas.h"
+	"Puestos.h"
+	"Bitacora.h"
 
-1686152502 source:c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipop1ef2023\src\menus.cpp
+1686161340 source:c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipop1ef2023\src\menus.cpp
 	"Menus.h"
+	"Recetas.h"
 	<iostream>
 	<fstream>
 	<stdlib.h>
@@ -77,5 +82,134 @@
 	<ctime>
 
 1686152634 source:c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipop1ef2023\src\usuariosplanilla.cpp
+	"UsuariosPlanilla.h"
+
+1686156972 c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipop1ef2023\include\empleadosplanilla.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
+1686158476 source:c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipop1ef2023\src\empleadosplanilla.cpp
+	"EmpleadosPlanilla.h"
+
+1686158967 source:c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipop1ef2023\src\puestos.cpp
+	"Puestos.h"
+
+1686157955 c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipop1ef2023\include\puestos.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
+1686160163 source:c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipop1ef2023\src\recetas.cpp
+	"Recetas.h"
+
+1686160753 c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipop1ef2023\include\recetas.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
+1686161330 source:c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipop1ef2023\src\bitacora.cpp
+	"Bitacora.h"
+
+1686161330 c:\users\jhony\documents\universidad\tercer semestre\programación\proyectos\tareas\tareasp199592211003\prototipop1ef2023\include\bitacora.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1686151977 source:c:\users\jhony\desktop\nueva carpeta (3)\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"UsuariosPlanilla.h"
+
+1686152659 c:\users\jhony\desktop\nueva carpeta (3)\include\usuariosplanilla.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
+1686161362 c:\users\jhony\desktop\nueva carpeta (3)\include\menus.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"EmpleadosPlanilla.h"
+	"Recetas.h"
+	"Puestos.h"
+	"Bitacora.h"
+
+1686156972 c:\users\jhony\desktop\nueva carpeta (3)\include\empleadosplanilla.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
+1686160753 c:\users\jhony\desktop\nueva carpeta (3)\include\recetas.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
+1686157955 c:\users\jhony\desktop\nueva carpeta (3)\include\puestos.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Menus.h"
+
+1686161330 c:\users\jhony\desktop\nueva carpeta (3)\include\bitacora.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1686161340 source:c:\users\jhony\desktop\nueva carpeta (3)\src\menus.cpp
+	"Menus.h"
+	"Recetas.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1686152634 source:c:\users\jhony\desktop\nueva carpeta (3)\src\usuariosplanilla.cpp
 	"UsuariosPlanilla.h"
 

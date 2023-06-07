@@ -1,4 +1,4 @@
-//#ifndef MENUS_H
+#ifndef MENUS_H
 #define MENUS_H
 #include <iostream>
 #include<fstream>
@@ -6,14 +6,10 @@
 #include<cstdlib>
 #include<conio.h>
 #include<iomanip>
-//#include "EmpleadosPlanilla.h"
-//#include "Departamento.h"
-//#include "Puestos.h"
-//#include "Bitacora.h"
-//#include "Descuentos.h"
-//#include "Porcentajes.h"
-//#include "HorasExtra.h"
-//#include "Informes.h"
+#include "EmpleadosPlanilla.h"
+#include "Recetas.h"
+#include "Puestos.h"
+#include "Bitacora.h"
 
 using namespace std;
 
@@ -26,7 +22,10 @@ class Menus
         string subMenuInformes(string nombreUsuario);
         string menuProcesos(string nombreUsuario);
 
+
     protected:
 
     private:
 };
+
+#endif
